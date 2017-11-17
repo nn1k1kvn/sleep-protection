@@ -34,4 +34,4 @@ sudo apt-get install mplayer2
 
 
 ## Feedback:
-- Contact: [Miksha](https://fb.com/miksha.happy)
+- Contact: [Mihails Šilovs](https://fb.com/mih4ils)
